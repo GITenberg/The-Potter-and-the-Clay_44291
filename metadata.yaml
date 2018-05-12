@@ -1,0 +1,31 @@
+_repo: The-Potter-and-the-Clay_44291
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44291-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Winnington Ingram, Arthur F. (Arthur Foley)
+    aliases:
+    - Ingram, A. F. W. (Arthur Foley Winnington)
+    - Ingram, Arthur F. Winnington (Arthur Foley Winnington)
+    birthdate: 1858
+    deathdate: 1946
+    gutenberg_agent_id: '9292'
+    url: http://www.gutenberg.org/2009/agents/9292
+description: ''
+gutenberg_issued: '2013-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44291'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Church of England -- Sermons'
+- !lcsh 'Sermons, English -- 20th century'
+- !lcsh 'World War, 1914-1918 -- Sermons'
+title: The Potter and the Clay
+url: http://www.gutenberg.org/ebooks/44291
